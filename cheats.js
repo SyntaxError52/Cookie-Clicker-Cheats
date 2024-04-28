@@ -13,5 +13,15 @@ var newShimmer=new Game.shimmer("golden");
 //OP HACK - THIS WILL DESTROY THE FUN OF THE GAME
 document.addEventListener('mousemove', () => {
   var newShimmer=new Game.shimmer("golden");
-  Game.cookies += 100;
+  var newShimmer=new Game.shimmer("golden");
+  var newShimmer=new Game.shimmer("golden");
+  var newShimmer=new Game.shimmer("golden");
+  var newShimmer=new Game.shimmer("golden");
+  var newShimmer=new Game.shimmer("golden");
+  var newShimmer=new Game.shimmer("golden");
+  var newShimmer=new Game.shimmer("golden");
+  var newShimmer=new Game.shimmer("golden");
+  var newShimmer=new Game.shimmer("golden");
+  var newShimmer=new Game.shimmer("golden");
+  Game.cookies += 9999999999999;
 });
